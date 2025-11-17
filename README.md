@@ -23,7 +23,7 @@ This is a **Simon Game** built using **HTML, CSS, and JavaScript** as part of a 
 
 ## 📌 Demo
 You can add a live demo link here, for example:
-[Play Simon Game](https://yourusername.github.io/simon-game/)
+[Play Simon Game](https://cansuuurgun.github.io/Simon-Game/)
 
 ## 📝 Author
 Developed by **Cansu Urgun**  
