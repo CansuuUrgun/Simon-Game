@@ -1,6 +1,6 @@
 # Simon Game 🎮
 
-This is a **Simon Game** built using **HTML, CSS, and JavaScript** as part of a The Complete Full-Stack Web Development Bootcamp course project. The game recreates the classic memory game where the player must repeat a randomly generated color sequence.
+This is a **Simon Game** developed as part of the Udemy course **"The Complete Full-Stack Web Development Bootcamp"**. The game recreates the classic memory game where the player must repeat a randomly generated color sequence.
 
 ## 🕹️ How to Play
 1. Press any key to start the game.
