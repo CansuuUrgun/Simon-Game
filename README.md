@@ -22,7 +22,6 @@ This is a **Simon Game** developed as part of the Udemy course **"The Complete F
 - Responsive and interactive gameplay
 
 ## 📌 Demo
-You can add a live demo link here, for example:
 [Play Simon Game](https://cansuuurgun.github.io/Simon-Game/)
 
 ## 📝 Author
